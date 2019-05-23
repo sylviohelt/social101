@@ -42,3 +42,11 @@
 .avatar{
     size: 5%;
 }
+
+.page-footer{
+    background-color: purple;
+}
+
+#rodape{
+    margin-left: 5%;
+}
