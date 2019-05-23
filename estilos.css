@@ -22,6 +22,15 @@
     border-color: white
 
 }
+
+.nav-wrapper{
+    background-color: purple;
+}
+
+.brand-logo{
+    margin-left: 2%;
+}
+
 .story{
     display: flex; 
     flex-direction: column;
