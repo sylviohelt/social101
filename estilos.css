@@ -1,0 +1,35 @@
+.container{
+}
+.header{
+
+}
+.search{
+    
+}
+.posts{
+    display: flex;
+    flex-direction: column;
+    border: 20%;
+    border-style: solid;
+    border-color: white;
+    width: 70%
+}
+.stories{
+    display: flex; 
+    flex-direction: row;
+    border: 20%;
+    border-style: solid;
+    border-color: white
+
+}
+.story{
+    display: flex; 
+    flex-direction: column;
+    border: 50%;
+    border-style: solid;
+    border-color: white;
+    
+}
+.avatar{
+    size: 10%
+}
